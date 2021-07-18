@@ -1,0 +1,1 @@
+Railshero Blog: [Tutorial](https://railshero.pw/223/creating-photo-album-app-with-rails)
